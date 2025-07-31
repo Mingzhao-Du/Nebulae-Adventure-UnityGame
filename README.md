@@ -1,4 +1,4 @@
-# Nebulae
+# Nebulae Adventure
 
 **Haptic Petals** is an interactive media art project that explores gesture-based sound interaction through generative floral visuals and haptic design.
 
