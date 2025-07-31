@@ -1,8 +1,8 @@
 # Nebulae Adventure
 
-**Haptic Petals** is an interactive media art project that explores gesture-based sound interaction through generative floral visuals and haptic design.
+**Nebulae Adventure** is a sci-fi platformer game built with Unity, where players explore a cosmic world filled with dynamic obstacles, interactive objects, and collectable items. Featuring a custom Arduino-based controller, the game blends physical interaction with digital gameplay, offering an immersive and playful journey through space.
 
-## Link to project video recording: https://mega.nz/file/DiowAbLa#I00CQr59C9aJkCXB6Qli9LqqIgc15w6tj6GhijIIK_8
+## Link to project video recording: https://mega.nz/file/auZhHTSQ#Hg_HY8EwO_ZfN1-pr5wrFABszesJzBUhf7kY-Bksn1I
 
 **[Haptic Petals — Interactive Gesture-to-Sound Flowers](https://github.com/Mingzhao-Du/HapticPetals-Interactive-Art/blob/main/Haptic%20Petals%20%E2%80%94%20Interactive%20Gesture-to-Sound%20Flowers.md)** – Main project description.
 
